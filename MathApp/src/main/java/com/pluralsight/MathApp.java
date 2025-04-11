@@ -69,10 +69,6 @@ public class MathApp {
 
   public void distanceDifference(){
 
-    int a = 5;
-    int b = 10;
-    int c = 85;
-    int d = 50;
 
 
 
